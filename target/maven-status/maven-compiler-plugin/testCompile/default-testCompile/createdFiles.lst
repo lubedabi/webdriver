@@ -1,6 +1,0 @@
-testsNG\services\tools\web_driver_factory\FirefoxDriverCreator.class
-testsNG\services\tools\web_driver_factory\EdgeDriverCreator.class
-testsNG\services\tools\web_driver_factory\BrowserstackDriverCreator.class
-testsNG\services\tools\web_driver_factory\WebDriverCreator.class
-testsNG\services\tools\web_driver_factory\ChromeDriverCreator.class
-testsNG\services\tools\web_driver_factory\WebDriverFactory.class

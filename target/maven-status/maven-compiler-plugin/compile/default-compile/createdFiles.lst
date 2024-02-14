@@ -1,1 +1,7 @@
 com\webdrivercreator\Main.class
+com\webdrivercreator\testsNG\services\tools\web_driver_factory\EdgeDriverCreator.class
+com\webdrivercreator\testsNG\services\tools\web_driver_factory\ChromeDriverCreator.class
+com\webdrivercreator\testsNG\services\tools\web_driver_factory\WebDriverCreator.class
+com\webdrivercreator\testsNG\services\tools\web_driver_factory\BrowserstackDriverCreator.class
+com\webdrivercreator\testsNG\services\tools\web_driver_factory\FirefoxDriverCreator.class
+com\webdrivercreator\testsNG\services\tools\web_driver_factory\WebDriverFactory.class

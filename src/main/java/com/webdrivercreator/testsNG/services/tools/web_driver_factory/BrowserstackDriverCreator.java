@@ -1,4 +1,4 @@
-package testsNG.services.tools.web_driver_factory;
+package com.webdrivercreator.testsNG.services.tools.web_driver_factory;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
