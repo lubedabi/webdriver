@@ -13,6 +13,14 @@
         <maven.compiler.target>21</maven.compiler.target>
     </properties>
 
+    <distributionManagement>
+        <repository>
+          <id>github</id>
+          <name>GitHub lubedabi Apache Maven Packages</name>
+          <url>https://maven.pkg.github.com/lubedabi/webdriver</url>
+        </repository>
+     </distributionManagement>
+
     <dependencies>
         <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
